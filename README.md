@@ -9,7 +9,7 @@ This project demonstrates the use of **content-based recommendation** and how to
 
 
  Screenshot of the app:  
-![App Screenshot] 
+![App Screenshot] (Capture....PNG)
 
 
 ---
@@ -32,7 +32,7 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ---
 
-Future Improvements
+## Future Improvements
 - Use deep learning or NLP for better recommendations.
 - Add user login and personalization.
 - Deploy as a mobile app for wider access.
