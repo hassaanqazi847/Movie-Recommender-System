@@ -1,4 +1,4 @@
-<img width="1270" height="830" alt="image" src="https://github.com/user-attachments/assets/d3608e20-20b0-464b-8ba2-894ef46442b4" /># 🎬 Movie Recommender System
+#<img width="1270" height="830" alt="image" src="https://github.com/user-attachments/assets/d3608e20-20b0-464b-8ba2-894ef46442b4" /># 🎬 Movie Recommender System
 
 A simple **Movie Recommender System** built with **Python** and deployed using **Streamlit**.  
 The system suggests movies similar to the one selected by the user, making it easier to discover new movies.  
@@ -9,7 +9,7 @@ This project demonstrates the use of **content-based recommendation** and how to
 
 
  Screenshot of the app:  
-![App Screenshot] (Capture....PNG)
+![App Screenshot](Capture....PNG)
 
 
 ---
