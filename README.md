@@ -9,7 +9,7 @@ This project demonstrates the use of **content-based recommendation** and how to
 
 
  Screenshot of the app:  
-![App Screenshot](screenshot.png)  
+![App Screenshot](Capture....PNG)  
 
 
 ---
