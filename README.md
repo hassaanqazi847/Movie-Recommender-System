@@ -9,7 +9,7 @@ This project demonstrates the use of **content-based recommendation** and how to
 
 
  Screenshot of the app:  
-![App Screenshot](Capture....PNG)  
+![App Screenshot] 
 
 
 ---
@@ -32,5 +32,10 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ---
 
-##  Project Structure
+Future Improvements
+- Use deep learning or NLP for better recommendations.
+- Add user login and personalization.
+- Deploy as a mobile app for wider access.
+- Expand dataset to include TV shows.
+
 
