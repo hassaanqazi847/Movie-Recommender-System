@@ -7,17 +7,14 @@ This project demonstrates the use of **content-based recommendation** and how to
 
 ---
 
-## 🚀 Demo
 
-🔗 [Live Demo (Heroku)](https://your-heroku-app-link.herokuapp.com/)  
-
-📸 Screenshot of the app:  
+ Screenshot of the app:  
 ![App Screenshot](screenshot.png)  
 *(Add your own screenshot here for better presentation)*
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project shows how **recommendation systems** work using movie data.  
 It uses **cosine similarity** on features like genres, cast, crew, and keywords to recommend movies that are most similar to the selected one.  
@@ -26,14 +23,14 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎥 Get **movie recommendations** instantly  
-- 📊 Uses **content-based filtering** with cosine similarity  
-- 🌐 Interactive **Streamlit web app**  
-- 🚀 Deployment ready (Heroku)  
+-  Get **movie recommendations** instantly  
+-  Uses **content-based filtering** with cosine similarity  
+-  Interactive **Streamlit web app**  
+- 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
