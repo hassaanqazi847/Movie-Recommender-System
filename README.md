@@ -49,5 +49,6 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 -Used metrics like Precision@K, Recall@K, RMSE to evaluate performance.
 -Deployment
 -Built a simple Streamlit/Flask app where users can search for a movie and get recommendations instantly.ows.
+
 ---
 
