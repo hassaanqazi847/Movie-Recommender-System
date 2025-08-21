@@ -34,7 +34,6 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ## Project Workflow
 
-- The recommender system is built using the following steps:
 - Data Collection & Preprocessing
 - Collected movie dataset (titles, genres, ratings, user history).
 - Cleaned data (handled missing values, normalized features).
