@@ -8,7 +8,7 @@ This project demonstrates the use of **content-based recommendation** and how to
 ---
 
 
- Screenshot of the app:  
+ ## Demonstration of the app:  
 ![App Screenshot](Capture....PNG)
 
 
