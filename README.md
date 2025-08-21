@@ -1,4 +1,4 @@
- 🎬 Movie Recommender System
+## 🎬 Movie Recommender System
 
 A simple **Movie Recommender System** built with **Python** and deployed using **Streamlit**.  
 The system suggests movies similar to the one selected by the user, making it easier to discover new movies.  
