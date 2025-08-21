@@ -34,9 +34,9 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ## Project Workflow
 
--1. Data Collection & Preprocessing
-- Collected movie dataset (titles, genres, ratings, user history).
-- Cleaned data (handled missing values, normalized features).
+1. Data Collection & Preprocessing
+   - Collected movie dataset (titles, genres, ratings, user history).
+   - Cleaned data (handled missing values, normalized features).
 - Feature Engineering
 - Extracted features such as movie genres, keywords, cast, director, and user ratings.
 - Converted text data into vectors using TF-IDF / Word2Vec / Embeddings.
