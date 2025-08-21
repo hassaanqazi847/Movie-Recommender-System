@@ -49,3 +49,18 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
 
 ---
 
+## Real-World Applications
+
+Movie recommender systems are widely used in the entertainment industry:
+
+- OTT Platforms (Netflix, Amazon Prime, Disney+)
+   - Personalize user experience by suggesting movies/shows based on past viewing behavior.
+
+- Online Movie Databases (IMDb, TMDb)
+   - Help users discover similar movies or trending recommendations.
+
+- Cinema & Ticket Booking Apps
+   - Suggest movies currently running in theaters based on user interests.
+
+- Content Creators & Studios  
+   - Understand audience preferences and plan new content accordingly.
