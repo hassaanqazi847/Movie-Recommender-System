@@ -38,16 +38,14 @@ The recommender is wrapped in a **Streamlit app** for an interactive and user-fr
    - Collected movie dataset (titles, genres, ratings, user history).
    - Cleaned data (handled missing values, normalized features).
 - Feature Engineering
-- Extracted features such as movie genres, keywords, cast, director, and user ratings.
-- Converted text data into vectors using TF-IDF / Word2Vec / Embeddings.
+   - Extracted features such as movie genres, keywords, cast, director, and user ratings.
 - Model Building
-- Implemented Content-Based Filtering (recommend movies similar to a given one).
-- Implemented Collaborative Filtering (recommend based on user–user or item–item similarities).
-- Optionally used Matrix Factorization / Deep Learning models to improve recommendations.
+   - Implemented Content-Based Filtering (recommend movies similar to a given one).
+   - Implemented Collaborative Filtering (recommend based on user–user or item–item similarities).
 - Evaluation
-- Used metrics like Precision@K, Recall@K, RMSE to evaluate performance.
+   - Used metrics like Precision@K, Recall@K to evaluate performance.
 - Deployment
-- Built a simple Streamlit/Flask app where users can search for a movie and get recommendations instantly.ows.
+   - Built a simple Streamlit where users can search for a movie and get recommendations instantly.ows.
 
 ---
 
